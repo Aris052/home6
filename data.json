@@ -1,0 +1,51 @@
+{
+  "tasks": [
+    {
+      "id": "101",
+      "text": "change css styles",
+      "status": "in progress"
+    },
+    {
+      "id": "102",
+      "text": "bug fix on modal",
+      "status": "completed"
+    },
+    {
+      "id": "103",
+      "text": "add observer design pattern to model",
+      "status": "in progress",
+      "start": "in progress"
+    },
+    {
+      "id": "104",
+      "text": "responsivness of main page",
+      "status": "in progress"
+    },
+    {
+      "id": "105",
+      "text": "use carousel lib for gallery",
+      "status": "unstarted"
+    },
+    {
+      "id": "c6c5",
+      "text": "asf",
+      "status": "in progress",
+      "start": "completed"
+    },
+    {
+      "id": "86d2",
+      "text": "asd",
+      "status": "unstarted"
+    },
+    {
+      "id": "750e",
+      "text": "s",
+      "status": "in progress"
+    },
+    {
+      "id": "ee00",
+      "text": "asf",
+      "status": "in progress"
+    }
+  ]
+}
